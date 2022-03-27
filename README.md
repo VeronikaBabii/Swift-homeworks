@@ -1,2 +1,4 @@
 # Swift-homeworks
-Swift course homework: Vapor endpoints realisation.
+Swift course homeworks: Vapor endpoints realisation.
+
+Go to Sources -> App.
